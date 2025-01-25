@@ -1,4 +1,4 @@
-A demo SwiftUI app using Metal shaders to apply a custom blur filter.
+A demo SwiftUI app using Metal shaders to apply a custom blur filters.
 
 **Blur filters:**
 
