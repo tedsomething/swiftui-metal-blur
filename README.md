@@ -17,3 +17,7 @@ A demo SwiftUI app using Metal shaders to apply a custom blur filters.
 ## Why?
 
 I just wanted to play around with blur algorithms and see how difficult they are.
+
+## Credit
+
+- Photo by [Wes Tindel](https://unsplash.com/@lonestarexotic) on [Unsplash](https://unsplash.com/photos/a-group-of-people-standing-around-a-purple-car-ZAIKfWfNCAs)
